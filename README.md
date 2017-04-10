@@ -1,21 +1,21 @@
-# �l�Ɛl���x�����������̃X�g���X
+# 人と人が支え合った時のストレス
 
-## �T�v
+## 概要
 
-�ǂ����̃e���r�ԑg�Łu�w�l�x�Ƃ������͐l�Ɛl���x�������Ăł��Ă���v�I�Ȃ��Ƃ������Ă��炵���̂ŁA
-���ۂɎx����������ǂ���ɂǂ̂��炢�̃X�g���X(����)���������Ă��邩���v�Z���Ă݂�R�[�h�B
+どこかのテレビ番組で「『人』という字は人と人が支え合ってできている」的なことを言ってたらしいので、
+実際に支え合ったらどちらにどのくらいのストレス(応力)がかかっているかを計算してみるコード。
 
-## �g����
+## 使い方
 
     $ make
     $ ./a.out <hito.data
 
-���s�����bitmap��f���܂��B
-pov�t�@�C�����f���Ă���̂ŁA����povray�������Ă�����Amake png�Ń����_�����O���ł��܂��B
+実行するとbitmapを吐きます。
+povファイルも吐いているので、もしpovrayを持っていたら、make pngでレンダリングもできます。
 
     $ make png
 
-## ���s����
+## 実行結果
 
 ![bmp1](hito_bmp1.png)
 ![bmp1](hito_bmp2.png)
