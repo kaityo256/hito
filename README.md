@@ -17,12 +17,16 @@ povファイルも吐いているので、もしpovrayを持っていたら、ma
 
 ## 実行結果
 
-![bmp1](hito_bmp1.png)
-![bmp1](hito_bmp2.png)
-![bmp1](hito_bmp3.png)
-![bmp1](hito_bmp4.png)
+![bmp1](fig/hito_bmp1.png)
+![bmp1](fig/hito_bmp2.png)
+![bmp1](fig/hito_bmp3.png)
+![bmp1](fig/hito_bmp4.png)
 
-![bmp1](hito_pov1.png)
-![bmp1](hito_pov2.png)
-![bmp1](hito_pov3.png)
-![bmp1](hito_pov4.png)
+![bmp1](fig/hito_pov1.png)
+![bmp1](fig/hito_pov2.png)
+![bmp1](fig/hito_pov3.png)
+![bmp1](fig/hito_pov4.png)
+
+## ライセンス
+
+MIT

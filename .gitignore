@@ -1,3 +1,5 @@
 makefile.depend
 a.out
 *.o
+*.bmp
+*.pov
