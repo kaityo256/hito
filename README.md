@@ -17,15 +17,21 @@ povファイルも吐いているので、もしpovrayを持っていたら、ma
 
 ## 実行結果
 
-![bmp1](fig/hito_bmp1.png)
-![bmp1](fig/hito_bmp2.png)
-![bmp1](fig/hito_bmp3.png)
-![bmp1](fig/hito_bmp4.png)
+### ファイル
 
-![bmp1](fig/hito_pov1.png)
-![bmp1](fig/hito_pov2.png)
-![bmp1](fig/hito_pov3.png)
-![bmp1](fig/hito_pov4.png)
+![bmp1](fig/hito_bmp1.png)
+![bmp2](fig/hito_bmp2.png)
+![bmp3](fig/hito_bmp3.png)
+![bmp4](fig/hito_bmp4.png)
+
+![pov1](fig/hito_pov1.png)
+![pov2](fig/hito_pov2.png)
+![pov3](fig/hito_pov3.png)
+![pov4](fig/hito_pov4.png)
+
+### アニメーションGIF
+
+![gif](fig/hito.gif)
 
 ## ライセンス
 
